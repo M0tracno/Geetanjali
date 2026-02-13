@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    color-scheme: light;
+    background-color: #fdf2f8;
+    /* pink-50 */
+}
+
+.font-script {
+    font-family: 'Great Vibes', cursive;
+}
